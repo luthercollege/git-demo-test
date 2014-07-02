@@ -1,6 +1,10 @@
 git-demo-test
 =============
 
+The quick brown fox jumps over the lazy dog.
+
+Time flies like an arrow. Fruit flies like a banana.
+
 ###Before Training
 1. Download and install github for windows version 2 from https://windows.github.com/
 2. log in with your github credentials and follow any instructions
@@ -8,7 +12,7 @@ git-demo-test
 ###git/github training repository for
 - Nate
 - Cindy
-- Jean
+- Jean (this is my change)
 
 ###markdown help
 1. https://help.github.com/articles/markdown-basics
@@ -25,6 +29,11 @@ git-demo-test
 7. find the green pull request button and press it
 8. comment on your changes
 9. submit it
+
+
+Hello!!!
+
+
 10. back on your own computer repeat 3-9 but edit the README.md file instead
 11. you may notice you don't have changes made by others on your fork (on github or locally)
 12. Click the gear in the top right corner of github for windows and choose to open the shell.
